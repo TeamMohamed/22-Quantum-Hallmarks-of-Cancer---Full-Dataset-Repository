@@ -37,6 +37,6 @@ This project is licensed under the [Creative Commons Attribution–NonCommercial
 
 For questions, collaborations, or commercial licensing opportunities, please reach out to:
 
-- **Email**: ecssignalling@gmail.com
+- **Email**: TeamMohamed@proton.me
 - **GitHub**: TeamMohamed https://github.com/TeamMohamed
   
